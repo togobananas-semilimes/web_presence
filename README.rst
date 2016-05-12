@@ -27,7 +27,12 @@ You can now activate the virtualenv
 Step 2: Download and Instaall requiriments
 ``````````````````````````````````````````
 download trytond and tryton from https://downloads.tryton.org/3.4/
-nereid from git clone git@github.com:openlabs/nereid.git
+clone nereid
+
+::
+
+  git clone git@github.com:openlabs/nereid.git
+
 and install inside env with
 
 ::
